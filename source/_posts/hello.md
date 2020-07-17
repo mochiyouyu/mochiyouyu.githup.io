@@ -26,6 +26,7 @@ tags:
    hexo new 博客名 利用本命令可以创建一个md文件
    git clone --depth 1 git@github.com:iissnan/hexo-theme-next.git themes/netxi
    下载新的主题
+    git checkout -b dev 创建新的分支，并切换到它
 ```
 ### 解决git push失败问题failed to push some refs to 'git@github.com:lXXX/XXX.git'
  ![](https://img-blog.csdnimg.cn/20190813161313331.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdWhwMTIz,size_16,color_FFFFFF,t_70)
