@@ -4,6 +4,8 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot/themes/landscape" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/next" vcs="Git" />
   </component>
 </project>
