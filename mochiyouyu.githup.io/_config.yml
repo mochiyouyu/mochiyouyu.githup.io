@@ -99,5 +99,5 @@ theme: netxi
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repository: https://github.com/mochiyouyu/mochiyouyu.githup.io.git
+    repository: https://github.com/mochiyouyu/mochiyouyu.githup.io
     branch: master
