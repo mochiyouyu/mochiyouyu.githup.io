@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repository: git@github.com:mochiyouyu/mochiyouyu.githup.io.git
+    repository: https://github.com/mochiyouyu/mochiyouyu.githup.io.git
     branch: master
